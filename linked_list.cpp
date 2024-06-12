@@ -6,11 +6,7 @@ class Node{
 	int data;
 	Node* next;
 	
-	/*Node(int a, Node* b)
-	{
-		data=a;
-		next=b;
-	}*/
+	
 };
 class List{
     public:
